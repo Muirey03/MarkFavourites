@@ -1,0 +1,9 @@
+Package: com.muirey03.markfavourites
+Name: MarkFavourites
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Mark favourite multiple photos in the Photos app
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
